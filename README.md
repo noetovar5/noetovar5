@@ -33,10 +33,11 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
 * 💻Cloud Migrations/ IIS /Postman 
 ##
 ## Amazon Author page link below.
-https://github.com/noetovar5/noetovar5/assets/149421524/93108aab-4e0c-4abb-a637-f63f64f62d8d](https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=24eb9a09-f3f6-4cc0-87cb-ad5015aa92e9&store_ref=ap_rdr&ref_=ap_rdr
+https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=ee8a9ab1-e946-4848-a126-cebbe4dbc335&store_ref=ap_rdr&ref_=ap_rdr
 
 ### 🔭 I’m currently working on Writing books for sale on Amazon.com to share my knowledge 
 ### 🌱 I’m currently learning Linux 
+
 ## Linkedin page link below.
 https://www.linkedin.com/in/noe-tovar-mba
 
