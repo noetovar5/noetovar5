@@ -31,7 +31,14 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
 * 💻Awards for highest customer satisfaction multiple years
 * 💻Oracle Cloud/ AWS/ Vulture
 * 💻Cloud Migrations/ IIS /Postman 
-##
+## Here are some Sample websites of my work. Please note these are not live they are only Examples.
+*🕸️Here is a Self-hosted website from my home on-prem hybrid network. Maria Mexican Food is a WordPress Example 
+https://maria.tovartech.org/
+
+*🕸️This is an HTML Apache2 Linux Instance example running on the Cloud. Please note this is not live it is an example of my work only.               
+https://jose.tovartech.org/
+
+
 ## Amazon Author page link below.
 https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=ee8a9ab1-e946-4848-a126-cebbe4dbc335&store_ref=ap_rdr&ref_=ap_rdr
 
