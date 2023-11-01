@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm Noah from Dalla, Texas, and i love to work on Apache Web Servers, Ubuntu Linux, SQL Server and WordPress to name a few. I am Certified in AWS and CompTIA Security+. Network+ and I enjoy Troubleshooting and 
+building up my Hybrid Network composed of Linux Server, Windows 2019 Server, VMware, and ProxMox Servers where I host Linux Apache WebServer and WordPress Sites. You can see my LinkedIn profile here.https://www.linkedin.com/in/noe-tovar-mba
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noetovar5&theme=dark&show_icons=true)
 <!--
 **noetovar5/noetovar5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
