@@ -31,7 +31,7 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
 * 💻Oracle Cloud/ AWS/ Vulture
 * 💻Cloud Migrations/ IIS /Postman 
 ##
-## ![AmazonGIF](https://github.com/noetovar5/noetovar5/assets/149421524/0a8e5df9-112f-48c6-b741-32c52560a57d)
+## Amazon Author page link below.
 ([https://github.com/noetovar5/noetovar5/assets/149421524/93108aab-4e0c-4abb-a637-f63f64f62d8d](https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=24eb9a09-f3f6-4cc0-87cb-ad5015aa92e9&store_ref=ap_rdr&ref_=ap_rdr)
 
 ### 🔭 I’m currently working on Writing books for sale on Amazon.com to share my knowledge 
