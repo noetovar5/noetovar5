@@ -38,6 +38,17 @@ https://maria.tovartech.org/
 *🕸️This is an HTML Apache2 Linux Instance example running on the Cloud. Please note this is not live it is an example of my work only.               
 https://jose.tovartech.org/
 
+## Layout of my Hybrid Network. This is a mix of Linux and Windows Servers.
+*🕸️AWS EC2 instances (2)
+*🕸️Oracle Cloud Platform. Here I run two Apache2 Linux Web Servers for DEVOPS and Load Balancer Development and testing
+*🕸️Vult Cloud Platform. Here is where I run (5) Web Servers all Ubuntu Linux (YES ITS MY FAVORITE LINUX FLAVOR)
+*🕸️Cloud Flare is my go-to DNS. For my internal on-prem DNS Servers I run (2). Primary and Redundancy Piehole containers.
+*🕸️I run two ProxMox Servers on Dell Precision Tower 7810
+*🕸️I run one Windows Server 2019 Essentials on Dell Precision Tower3600
+*🕸️I run a Windows10 Pro for my Applications on a Dell Precision Tower3600
+*🕸️I run a TrueNAS core for my File Server
+*🕸️Currently running two 24-port Netgear GS724 Switches (2) VLANS
+*🕸️All servers have SSL certificates in place.
 
 ## Amazon Author page link below.
 https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=ee8a9ab1-e946-4848-a126-cebbe4dbc335&store_ref=ap_rdr&ref_=ap_rdr
