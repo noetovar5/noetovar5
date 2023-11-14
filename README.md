@@ -4,7 +4,7 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
 # My Certifications include
 <p align="center">
 Launch the utility: <br/>
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
 <br />
 * 💻COMPTIA Security+
 * 💻COMPTIA Network+
