@@ -3,12 +3,9 @@ I love to work on Apache Web Servers, Ubuntu Linux, SQL Server, and WordPress to
 building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, VMware, and ProxMox Servers where I host Linux Apache WebServer and WordPress Sites and SQL Development Servers.
 # My Certifications include
 <p align="center">
-Launch the utility: <br/>
+AWS Certified Cloud Practitioner: <br/>
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
 <br />
-* 💻COMPTIA Security+
-* 💻COMPTIA Network+
-* 💻COMPTIA A+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noetovar5&theme=dark&show_icons=true)
 ## Technical Support Engineer certified in AWS, Networking, Cybersecurity Linux Administration
