@@ -14,10 +14,10 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
   
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noetovar5&theme=dark&show_icons=true)
-## Technical Support Engineer certified in AWS, Networking, Cybersecurity Linux Administration
-- 🔭 I’m currently working on Writing books for sale on Amazon.com to share my knowledge 
-- 🌱 I’m currently learning Linux
+![Anurag's GitHub stats](https://a.co/d/4xhv6Fe)
+## Self-Help Author on Amazon
+- [HOW TO SUCCEED IN TECH SUPPORT: A GUIDE TO THRIVING IN IT SUPPORT Paperback]([https://github.com/joshmadakor1/Algorithms-Practice](https://a.co/d/9FIIsYo)
+- [HOW TO SUCCEED IN TECH SUPPORT: A GUIDE TO THRIVING IN IT SUPPORT Paperback]([https://github.com/joshmadakor1/Algorithms-Practice](https://a.co/d/9FIIsYo)
   
 ## Skills and Experience
 * 💻SQL Server
