@@ -7,7 +7,7 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
-  <img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+  <img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noetovar5&theme=dark&show_icons=true)
