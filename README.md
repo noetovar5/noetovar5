@@ -2,7 +2,10 @@
 I love to work on Apache Web Servers, Ubuntu Linux, SQL Server, and WordPress to name a few. I am Certified in AWS and CompTIA Security+. Network+ and I enjoy Troubleshooting and 
 building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, VMware, and ProxMox Servers where I host Linux Apache WebServer and WordPress Sites and SQL Development Servers.
 # My Certifications include
-* 💻AWS [https://www.credly.com/badges/e3ce0a1a-267c-4b01-9fb4-1600e2ecf857](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+* <p align="center">
+AWS Certified Cloud Practitioner: <br/>
+<img src="[https://i.imgur.com/62TgaWL.png](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 * 💻COMPTIA Security+
 * 💻COMPTIA Network+
 * 💻COMPTIA A+
