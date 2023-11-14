@@ -16,8 +16,8 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 
 ![Anurag's GitHub stats](https://a.co/d/4xhv6Fe)
 ## Self-Help Author on Amazon
-- [HOW TO SUCCEED IN TECH SUPPORT: A GUIDE TO THRIVING IN IT SUPPORT Paperback](https://a.co/d/9FIIsYo)
-- [HOW TO SUCCEED IN TECH SUPPORT: A GUIDE TO THRIVING IN IT SUPPORT Paperback](https://a.co/d/9FIIsYo)
+- [HOW TO SUCCEED IN TECH SUPPORT](https://a.co/d/9FIIsYo)
+- [Understanding Cloud Computing](https://a.co/d/i1ENCOH)
   
 ## Skills and Experience
 * 💻SQL Server
