@@ -18,6 +18,15 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 ## Self-Help Author on Amazon
 - [HOW TO SUCCEED IN TECH SUPPORT](https://a.co/d/9FIIsYo)
 - [Understanding Cloud Computing](https://a.co/d/i1ENCOH)
+- [Emotional QuickSand: Staying Positive in Negative Situations](https://a.co/d/e2VgEPw)
+- [Mastering Soft Skills: The key to success in modern business](https://a.co/d/8mwdCZf)
+- [DELIVERING GREAT CUSTOMER SERVICE: PUT YOURSELF IN THEIR SHOES](https://a.co/d/bH9x3qQ))
+- [Release Your Inner Potential. : A Journey in Leadership](https://a.co/d/ehh0WEQ)
+- [Remote Work Success: Thriving in the digital workplace](https://a.co/d/9G8A0ks)
+
+
+
+
   
 ## Skills and Experience
 * 💻SQL Server
