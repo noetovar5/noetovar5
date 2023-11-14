@@ -5,6 +5,7 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
 <p align="center">
 AWS Certified Cloud Practitioner | CompTIA Security + ce Certification: <br/>
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+<img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noetovar5&theme=dark&show_icons=true)
