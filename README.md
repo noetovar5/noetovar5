@@ -13,7 +13,7 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 <img src="https://images.credly.com/size/340x340/images/1d7f03e6-9f1b-4262-a79c-d4d4a6761b63/CompTIA_ITFund.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
   
 <br />
-(https://github-readme-stats.vercel.app/api?username=noetovar5&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noetovar5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Self-Help Author on Amazon
 - [HOW TO SUCCEED IN TECH SUPPORT](https://a.co/d/9FIIsYo)
