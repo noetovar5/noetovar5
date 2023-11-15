@@ -81,6 +81,7 @@ https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=ee8a9
 ### 🌱 I’m currently learning Linux 
 
 ## Linkedin page link below.
-https://www.linkedin.com/in/noe-tovar-mba
+- [Linkedin](https://www.linkedin.com/in/noe-tovar-mba)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/noetovar5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/noetovar5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/noe-tovar-mba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=24eb9a09-f3f6-4cc0-87cb-ad5015aa92e9&store_ref=ap_rdr&ref_=ap_rdr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazon.svg' alt='amazon' height='40'>](https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=24eb9a09-f3f6-4cc0-87cb-ad5015aa92e9&store_ref=ap_rdr&ref_=ap_rdr)  
