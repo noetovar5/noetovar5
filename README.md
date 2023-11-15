@@ -52,15 +52,14 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 * 💻Awards for highest customer satisfaction multiple years
 * 💻Oracle Cloud/ AWS/ Vulture
 * 💻Cloud Migrations/ IIS /Postman 
-## Here are some Sample websites of my work. Please note these are not live they are only Examples.
+## Here are some Sample websites of my work. 
+Please note these are not live they are only Examples.
 These sites are also secured with SSL certificates from LetsEncrypt.
 *🕸️Here is a Self-hosted website from my home on-prem hybrid network. 
 - [Maria Mexican Food is a WordPress Example](https://maria.tovartech.org/)
 - [HTML Apache2 Linux Instance](https://jose.tovartech.org)
-
-
-*🕸️This is an HTML Apache2 Linux Instance example running on a linux container on my Proxmox Metal Server. Please note this is not live it is an example of my work only.
-https://amd.tovartech.org/
+- [HTML Apache2 Linux Instance](https://amd.tovartech.org)
+- [HTML Apache2 Linux Maintenance site](https://repair.tovartech.org)
 
 ## Layout of my Hybrid Network. This is a mix of Linux and Windows Servers.
 *🕸️AWS EC2 instances (2)
