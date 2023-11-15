@@ -59,7 +59,7 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 - [Maria Mexican Food is a WordPress Example](https://maria.tovartech.org/)
 - [HTML Apache2 Linux Instance](https://jose.tovartech.org)
 - [HTML Apache2 Linux Instance](https://amd.tovartech.org)
-- [HTML Apache2 Linux Maintenance site](https://repair.tovartech.org)
+- [HTML Apache2 Linux Maintenance site](https://comingsoon.tovartech.org/)
 
 ## Layout of my Hybrid Network. This is a mix of Linux and Windows Servers.
 *🕸️AWS EC2 instances (2)
