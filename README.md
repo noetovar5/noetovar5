@@ -14,7 +14,8 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 <img src="https://images.credly.com/size/340x340/images/1d7f03e6-9f1b-4262-a79c-d4d4a6761b63/CompTIA_ITFund.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
   
 <br />
-
+# 82 SkillSoft Credentials in Linux, Cyber Security and CCNA
+- [SkillSoft Certifications](https://skillsoft.digitalbadges.skillsoft.com/profile/noetovar322053/wallet)
 
 ## Self-Help Author on Amazon
 - [HOW TO SUCCEED IN TECH SUPPORT](https://a.co/d/9FIIsYo)
