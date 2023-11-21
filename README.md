@@ -29,7 +29,7 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 - [Remote Work Success: Thriving in the digital workplace](https://a.co/d/9G8A0ks)
 
 ## You Tube Video Tutorials
-- [How to backup and restore SQL Server database on a linux samba share]([https://a.co/d/9FIIsYo](https://youtu.be/HK1ILYiBCBU)
+- [How to backup and restore SQL Server database on a linux samba share](https://a.co/d/9FIIsYo](https://youtu.be/HK1ILYiBCBU)
 
   
 ## Skills and Experience
