@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?id=noetovar5.noetovar5" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5" />
 
 # My name is Noe Tovar-MBA
 I love to work on Apache Web Servers, Ubuntu Linux, SQL Server, and WordPress to name a few. I am Certified in AWS and CompTIA Security+. Network+ and I enjoy Troubleshooting and 
