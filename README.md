@@ -2,6 +2,12 @@
 
 # My name is Noe Tovar-MBA
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ae,aws,cloudflare,docker,gcp,github,git,ai,kubernetes,linkedin,linux,mysql,nginx,ps,postman,powershell,raspberrypi,visualstudio,vscode,wordpress&perline=12)](https://skillicons.dev)
 
 I love to work on Apache Web Servers, Ubuntu Linux, SQL Server, and WordPress to name a few. I am Certified in AWS and CompTIA Security+. Network+ and I enjoy Troubleshooting and 
