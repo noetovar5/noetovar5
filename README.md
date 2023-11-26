@@ -15,7 +15,8 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
 # My Certifications include
 ### 82 SkillSoft Credentials in Linux, Cyber Security and CCNA
 - [SkillSoft Certifications](https://skillsoft.digitalbadges.skillsoft.com/profile/noetovar322053/wallet)
-### COMPTia and AWS Certified https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+### COMPTia and AWS Certified 
+https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 <p align="center">
 AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA A+ ce Certification |CompTIA Network+ ce Certification | CompTIA IT Operations Specialist – CIOS Stackable Certification | CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification  : <br/>
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
