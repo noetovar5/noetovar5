@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5.visitor-badge&left_text=My%20Page%20Visitors"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5"/>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian)
 # My name is Noe Tovar-MBA
