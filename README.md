@@ -20,7 +20,7 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
-  <img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
+<img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/1d7f03e6-9f1b-4262-a79c-d4d4a6761b63/CompTIA_ITFund.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
