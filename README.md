@@ -15,7 +15,7 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
 # My Certifications include
 ### 82 SkillSoft Credentials in Linux, Cyber Security and CCNA
 - [SkillSoft Certifications](https://skillsoft.digitalbadges.skillsoft.com/profile/noetovar322053/wallet)
-### COMPTia and AWS Certified <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+### COMPTia and AWS Certified 
 <p align="center">
 AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA A+ ce Certification |CompTIA Network+ ce Certification | CompTIA IT Operations Specialist – CIOS Stackable Certification | CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification  : <br/>
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
@@ -25,10 +25,10 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 <img src="https://images.credly.com/size/340x340/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/1d7f03e6-9f1b-4262-a79c-d4d4a6761b63/CompTIA_ITFund.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
-  
+
 <br />
-
-
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br />
 ## Self-Help Author on Amazon
 - [HOW TO SUCCEED IN TECH SUPPORT](https://a.co/d/9FIIsYo)
 - [Understanding Cloud Computing](https://a.co/d/i1ENCOH)
