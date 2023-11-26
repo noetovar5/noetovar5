@@ -10,10 +10,8 @@
 
 I love to work on Apache Web Servers, Ubuntu Linux, SQL Server, and WordPress to name a few. I am Certified in AWS and CompTIA Security+. Network+ and I enjoy Troubleshooting and 
 building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, VMware, and ProxMox Servers where I host Linux Apache WebServer and WordPress Sites and SQL Development Servers.
-<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noetovar5)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-</p>
+
 # My Certifications include
 ### 82 SkillSoft Credentials in Linux, Cyber Security and CCNA
 - [SkillSoft Certifications](https://skillsoft.digitalbadges.skillsoft.com/profile/noetovar322053/wallet)
