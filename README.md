@@ -34,6 +34,8 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <br />
+
+
 ## Self-Help Author on Amazon
 - [HOW TO SUCCEED IN TECH SUPPORT](https://a.co/d/9FIIsYo)
 - [Understanding Cloud Computing](https://a.co/d/i1ENCOH)
