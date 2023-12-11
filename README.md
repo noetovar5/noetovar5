@@ -154,7 +154,7 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 
 
 <p align="center">
-  <a href="">
+  <a href="https://www.amazon.com/stores/author/B096BJRGGD/allbooks">
     <img src="https://github.com/noetovar5/portfolio/blob/main/Author%20Page.png?raw=true?raw=true" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
  </a>
 </p>
@@ -178,7 +178,7 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 
 
 <p align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/noe-tovar-mba">
     Click logo to visit my LinkedIn Page 
  </a>
 </p>
