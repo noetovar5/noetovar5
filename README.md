@@ -152,7 +152,14 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 *🕸️Currently running two 24-port Netgear GS724 Switches (2) VLANS
 *🕸️All servers have SSL certificates in place.
 
-## Amazon Author page link below.
+
+<p align="center">
+  <a href="">
+    <img src="https://github.com/noetovar5/portfolio/blob/main/Author%20Page.png?raw=true?raw=true" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
+ </a>
+</p>
+
+
 - [Amazon Author Page](https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=ee8a9ab1-e946-4848-a126-cebbe4dbc335&store_ref=ap_rdr&ref_=ap_rdr)
 
 
