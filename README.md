@@ -179,7 +179,7 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noe-tovar-mba">
-    Click logo to visit my LinkedIn Page 
+    Click Here
  </a>
 </p>
 
