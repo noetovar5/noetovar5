@@ -137,13 +137,13 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 
 
 <p align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/noe-tovar-mba">
     <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
  </a>
 </p>
 
 
-- [Linkedin](https://www.linkedin.com/in/noe-tovar-mba)
+- [Click Logo above to see my profile on Linkedin]()
 
 ### 🔭 I’m currently working on Writing books for sale on Amazon.com to share my knowledge 
 ### 🌱 I’m currently learning Linux 
