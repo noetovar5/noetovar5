@@ -119,8 +119,16 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 * 💻Microsoft Office Suite
 * 💻Awards for highest customer satisfaction multiple years
 * 💻Oracle Cloud/ AWS/ Vulture
-* 💻Cloud Migrations/ IIS /Postman 
-## Here are some Sample websites of my work. 
+* 💻Cloud Migrations/ IIS /Postman
+
+
+<p align="center">
+  <a href="">
+    <img src="https://github.com/noetovar5/portfolio/blob/main/sample%20websites.png?raw=true?raw=true" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
+ </a>
+</p>
+
+
 Please note these are not live they are only Examples.
 These sites are also secured with SSL certificates from LetsEncrypt.
 *🕸️Here is a Self-hosted website from my home on-prem hybrid network. 
