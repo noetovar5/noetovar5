@@ -46,7 +46,14 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 - [Remote Work Success: Thriving in the digital workplace](https://a.co/d/9G8A0ks)
 
 
-<img align="right" src="https://github.com/noetovar5/noetovar5/blob/main/youtube%20video%20tutorials%20gif"/>
+<p align="center">
+  <a href="">
+    <img src="https://github.com/noetovar5/noetovar5/blob/main/youtube%20video%20tutorials%20gif" />
+  </a>
+</p>
+
+
+
 <p align="center">
 <br/>
   
