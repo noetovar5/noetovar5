@@ -170,7 +170,11 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 </p>
 
 
-### Click on the above logo to visit my Linkedin Page 
 
 
+<p align="center">
+  <a href="">
+    ### Click on the above logo to visit my Linkedin Page 
+ </a>
+</p>
 
