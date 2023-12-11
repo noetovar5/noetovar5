@@ -47,7 +47,7 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 
 
 
-<span style="color:red;">This text will be bold and red!</span>
+<h1 style="color:purple;">Hello World</h1>
 
 <p align="center">
 <br/>
