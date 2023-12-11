@@ -138,7 +138,7 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 
 <p align="center">
   <a href="">
-    <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-examples.jpg" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
+    <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
  </a>
 </p>
 
