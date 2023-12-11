@@ -37,6 +37,8 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 
 
 ## Self-Help Author on Amazon
+- [DIGITAL PRESS PRINTING MASTERY: ULTIMATE GUIDE TO INDUSTRY STANDARDS, DESIGN, AND BEST PRACTICES](https://a.co/d/gZF6ubi)
+- [Mastering Linux: A BEGINNER'S GUIDE TO COMMAND LINE AND SYSTEM ADMINISTRATION](https://a.co/d/eItJxxY)
 - [HOW TO SUCCEED IN TECH SUPPORT](https://a.co/d/9FIIsYo)
 - [Understanding Cloud Computing](https://a.co/d/i1ENCOH)
 - [Emotional QuickSand: Staying Positive in Negative Situations](https://a.co/d/e2VgEPw)
