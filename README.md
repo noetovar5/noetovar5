@@ -36,7 +36,11 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 <br />
 
 
-## Self-Help Author on Amazon
+<p align="center">
+  <a href="">
+    <img src="https://github.com/noetovar5/noetovar5/blob/main/my%20amazon%20books.png" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
+ </a>
+</p>
 - [DIGITAL PRESS PRINTING MASTERY: ULTIMATE GUIDE TO INDUSTRY STANDARDS, DESIGN, AND BEST PRACTICES](https://a.co/d/gZF6ubi)
 - [Mastering Linux: A BEGINNER'S GUIDE TO COMMAND LINE AND SYSTEM ADMINISTRATION](https://a.co/d/eItJxxY)
 - [HOW TO SUCCEED IN TECH SUPPORT](https://a.co/d/9FIIsYo)
