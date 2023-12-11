@@ -60,18 +60,18 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 <br/>
   
 <a href="https://youtu.be/sw4q5Hn4DxU?si=Krk2d_uwGlt1csBg">
-    <img src="https://github.com/noetovar5/noetovar5/blob/main/sql%20server.png" height="20%" width="20%" alt="Youtube tutorial SQL Server Series"/>
+    <img src="https://github.com/noetovar5/noetovar5/blob/main/sql%20server.png" height="15%" width="15%" alt="Youtube tutorial SQL Server Series"/>
 
 </a>
   <a href="https://youtu.be/hZZzCGx-UI0?si=26PREJ8DRJYeL60U">
-    <img src="https://github.com/noetovar5/noetovar5/blob/main/ubuntu%20container.png" height="20%" width="20%" alt="Youtube tutorial SQL Server Series"/>
+    <img src="https://github.com/noetovar5/noetovar5/blob/main/ubuntu%20container.png" height="15%" width="15%" alt="Youtube tutorial SQL Server Series"/>
 </a>
 <a href="https://youtu.be/gAGgJkyqAmI?si=7O2OzZG0qldIJriI">
-    <img src="https://github.com/noetovar5/noetovar5/blob/main/Learn%20Linux%20Commands%20Lesson1.png" height="20%" width="20%" alt="Youtube tutorial SQL Server Serie"/>
+    <img src="https://github.com/noetovar5/noetovar5/blob/main/Learn%20Linux%20Commands%20Lesson1.png" height="15%" width="15%" alt="Youtube tutorial SQL Server Serie"/>
 
 </a>
 <a href="https://youtu.be/AYTR3IJ0OIA?si=mPJ54Ype8-Lx4dHc">
-    <img src="https://github.com/noetovar5/noetovar5/blob/main/learning%20linux%20commands%20lesson2.png" height="20%" width="20%" alt="Youtube tutorial SQL Server Serie"/>
+    <img src="https://github.com/noetovar5/noetovar5/blob/main/learning%20linux%20commands%20lesson2.png" height="15%" width="15%" alt="Youtube tutorial SQL Server Serie"/>
    
 </a>
   </p>
