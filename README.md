@@ -47,7 +47,8 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 
 ## You Tube Video Tutorials
 - [SQL Server Backup and Restore Linux Samba Share](https://youtu.be/sw4q5Hn4DxU?si=wCDKYiXyyXKAyma6)
-
+: <br/>
+<img src="https://github.com/noetovar5/noetovar5/blob/main/sql%20server.png" height="10%" width="10%" alt="Youtube tutorial SQL Server Series"/>
   
 ## Skills and Experience
 * 💻SQL Server
