@@ -45,10 +45,10 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 - [Release Your Inner Potential. : A Journey in Leadership](https://a.co/d/ehh0WEQ)
 - [Remote Work Success: Thriving in the digital workplace](https://a.co/d/9G8A0ks)
 
-<img align="center" src="https://github.com/noetovar5/noetovar5/blob/main/youtube%20video%20tutorials%20gif"/>
+
 <p align="center">
 <br/>
-  
+  <img align="center" src="https://github.com/noetovar5/noetovar5/blob/main/youtube%20video%20tutorials%20gif"/>
 <a href="https://youtu.be/sw4q5Hn4DxU?si=Krk2d_uwGlt1csBg">
     <img src="https://github.com/noetovar5/noetovar5/blob/main/sql%20server.png" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
 
