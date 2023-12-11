@@ -66,9 +66,12 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
   <a href="https://youtu.be/hZZzCGx-UI0?si=26PREJ8DRJYeL60U">
     <img src="https://github.com/noetovar5/noetovar5/blob/main/ubuntu%20container.png" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
 </a>
-
-<a href="https://youtu.be/gAGgJkyqAmI">
+<a href="https://youtu.be/gAGgJkyqAmI?si=7O2OzZG0qldIJriI">
     <img src="https://github.com/noetovar5/noetovar5/blob/main/learning%20linux%20commands%20lesson2.png" height="25%" width="25%" alt="Youtube tutorial SQL Server Serie"/>
+
+</a>
+<a href="https://youtu.be/gAGgJkyqAmI">
+    <img src="https://github.com/noetovar5/noetovar5/blob/main/Learn%20Linux%20Commands%20Lesson1.png" height="25%" width="25%" alt="Youtube tutorial SQL Server Serie"/>
 
 </a>
   </p>
