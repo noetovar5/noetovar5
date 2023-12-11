@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5"/>
 
 # Noe Tovar-MBA 
-Connect with me on LinkedIn
+
 
 <p align="center">
   <a href="https://skillicons.dev">
