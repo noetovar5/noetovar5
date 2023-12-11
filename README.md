@@ -48,7 +48,7 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 
 <p align="center">
   <a href="">
-    <img src="https://github.com/noetovar5/noetovar5/blob/main/youtube%20video%20tutorials%20gif" />
+    <img src="https://github.com/noetovar5/noetovar5/blob/main/youtube%20tutorials.png" />
   </a>
 </p>
 
