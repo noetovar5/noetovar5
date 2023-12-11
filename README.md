@@ -90,8 +90,13 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
   </p>
   <br/>
 
+
+<p align="center">
+  <a href="">
+    <img src="https://github.com/noetovar5/portfolio/blob/main/skills%20and%20experience.png?raw=true" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
+ </a>
+</p>
   
-## Skills and Experience
 * 💻SQL Server
 * 💻Linux Server
 * 💻HTML on Apache and NGINX and WordPress
