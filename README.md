@@ -161,7 +161,7 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 
 <p align="center">
   <a href="https://www.amazon.com/stores/author/B096BJRGGD/allbooks">
-    [Amazon Author Page]
+    Click Here
  </a>
 </p>
 
