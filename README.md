@@ -184,9 +184,4 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 </p>
 
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/noe-tovar-mba">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZZzCGx-UI0?si=zAA-LlCfqkA_SnhZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- </a>
-</p>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&src=bm9ldG92YXI1QGdtYWlsLmNvbQ&src=ZjliZjFjNTIwOWVmZjViYjllZjY5NjkyMmUwNGNiYzM5Y2JlZGYwOTYxMmNiYjU0NTY0MThkMGQ5YjI1YWE5ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%230B8043&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
