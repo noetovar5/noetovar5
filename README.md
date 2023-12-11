@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5"/>
 
-# Noe Tovar-MBA
+# Noe Tovar-MBA Connect with me on LinkedIn
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -183,4 +183,3 @@ These sites are also secured with SSL certificates from LetsEncrypt.
  </a>
 </p>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSezJmkjkGfvHzIRmVrnMvtG0ObyJDSuFe3axOXWg8NTOLsjLA/viewform?embedded=true" width="640" height="828" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
