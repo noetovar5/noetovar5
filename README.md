@@ -45,7 +45,8 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 - [Release Your Inner Potential. : A Journey in Leadership](https://a.co/d/ehh0WEQ)
 - [Remote Work Success: Thriving in the digital workplace](https://a.co/d/9G8A0ks)
 
-<font color="green"> YouTube Video Tutorials </font> 
+**<span style="color:red;">This text will be bold and red!</span>**
+
 
 
 
