@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5"/>
 
-# My name is Noe Tovar-MBA
+# Noe Tovar-MBA
 
 <p align="center">
   <a href="https://skillicons.dev">
