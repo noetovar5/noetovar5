@@ -116,6 +116,8 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 - [HTML Apache2 Linux Instance](https://jose.tovartech.org)
 - [HTML Apache2 Linux Instance](https://amd.tovartech.org)
 - [HTML Apache2 Linux Maintenance site](https://comingsoon.tovartech.org/)
+- [Wordpress live site noe portfolio page](https://noe2.tovartech.org/)
+- 
 - 
 
 ## Layout of my Hybrid Network. This is a mix of Linux and Windows Servers.
