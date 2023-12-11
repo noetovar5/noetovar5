@@ -134,7 +134,13 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 
 ## Amazon Author page link below.
 - [Amazon Author Page](https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=ee8a9ab1-e946-4848-a126-cebbe4dbc335&store_ref=ap_rdr&ref_=ap_rdr)
-## Linkedin page link below.
+
+
+<p align="center">
+  <a href="">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Flinkedin-logo%2F&psig=AOvVaw2c3haVo37QX9mSi9ysgD-Z&ust=1702402282649000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCLne70h4MDFQAAAAAdAAAAABAD" height="25%" width="25%" alt="Youtube tutorial SQL Server Series"/>
+ </a>
+</p>
 - [Linkedin](https://www.linkedin.com/in/noe-tovar-mba)
 
 ### 🔭 I’m currently working on Writing books for sale on Amazon.com to share my knowledge 
