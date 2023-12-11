@@ -159,8 +159,13 @@ These sites are also secured with SSL certificates from LetsEncrypt.
  </a>
 </p>
 
+<p align="center">
+  <a href="">
+    - [Amazon Author Page](https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=ee8a9ab1-e946-4848-a126-cebbe4dbc335&store_ref=ap_rdr&ref_=ap_rdr)
+ </a>
+</p>
 
-- [Amazon Author Page](https://www.amazon.com/stores/author/B096BJRGGD/allbooks?ingress=0&visitId=ee8a9ab1-e946-4848-a126-cebbe4dbc335&store_ref=ap_rdr&ref_=ap_rdr)
+
 
 
 <p align="center">
@@ -174,7 +179,7 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 
 <p align="center">
   <a href="">
-    ### Click on the above logo to visit my Linkedin Page 
+    Click logo to visit my LinkedIn Page 
  </a>
 </p>
 
