@@ -170,10 +170,7 @@ These sites are also secured with SSL certificates from LetsEncrypt.
 </p>
 
 
-- [Click Logo above to see my profile on Linkedin]()
-
-### 🔭 I’m currently working on Writing books for sale on Amazon.com to share my knowledge 
-### 🌱 I’m currently learning Linux 
+### Click on the above logo to visit my Linkedin Page 
 
 
 
