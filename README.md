@@ -1,4 +1,4 @@
-![image](https://github.com/noetovar5/noetovar5/assets/149421524/8d65b95c-02fb-4570-af14-212334b9348e)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5"/>
 
 # Noe Tovar-MBA 
 
