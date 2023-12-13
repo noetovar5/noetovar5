@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5"/>
+![image](https://github.com/noetovar5/noetovar5/assets/149421524/8d65b95c-02fb-4570-af14-212334b9348e)<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5"/>
 
 # Noe Tovar-MBA 
 
@@ -86,6 +86,11 @@ AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA 
 </a>
 <a href="https://youtu.be/AYTR3IJ0OIA?si=mPJ54Ype8-Lx4dHc">
     <img src="https://github.com/noetovar5/noetovar5/blob/main/learning%20linux%20commands%20lesson2.png" height="15%" width="15%" alt="Youtube tutorial SQL Server Serie"/>
+   
+</a>
+</a>
+<a href="[https://youtu.be/AYTR3IJ0OIA?si=mPJ54Ype8-Lx4dHc](https://youtu.be/cWVvPDnGJVs?si=o2CnS0foT1tDkXk3)">
+    <img src="https://github.com/noetovar5/portfolio/blob/main/systemctl%20command%20banner.png?raw=true" height="15%" width="15%" alt="Youtube tutorial SQL Server Serie"/>
    
 </a>
   </p>
