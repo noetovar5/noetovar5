@@ -25,7 +25,7 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
 - [SkillSoft Certifications](https://skillsoft.digitalbadges.skillsoft.com/profile/noetovar322053/wallet)
 ### COMPTia and AWS Certified 
 <p align="center">
-AWS Certified Cloud Practitioner | CompTIA Security + ce Certification |CompTIA A+ ce Certification |CompTIA Network+ | CompTIA IT Operations Specialist – CIOS Stackable Certification | CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification  : <br/>
+AWS Certified Cloud Practitioner | CompTIA IT Operations Specialist – CIOS Stackable Certification | CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification  : <br/>
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
