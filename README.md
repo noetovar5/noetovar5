@@ -27,7 +27,7 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
 <p align="center">AWS Certified Cloud Practitioner | CompTIA IT Operations Specialist – CIOS Stackable Certification | CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification : <br/>
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/dbb39f01-125f-45c1-885c-38ff832cc686/blob" height="10%" width="10%" alt="Disk Sanitization Steps"/>
-<img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A+_2Bce.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
+<img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
 <img src="https://images.credly.com/size/340x340/images/8090280a-311f-425f-a1cd-a32770b5a444/CompTIA_CSIS.png" height="10%" width="10%" alt="Disk Sanitization Steps"/>
