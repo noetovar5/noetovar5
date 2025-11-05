@@ -143,13 +143,9 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
 Please note these are not live they are only Examples.
 These sites are also secured with SSL certificates from LetsEncrypt.
 *🕸️Here is a Self-hosted website from my home on-prem hybrid network. 
-- [Maria Mexican Food is a WordPress Example](https://maria.tovartech.org/)
-- [HTML Apache2 Linux Instance](https://jose.tovartech.org)
-- [HTML Apache2 Linux Instance](https://amd.tovartech.org)
-- [HTML Apache2 Linux Maintenance site](https://comingsoon.tovartech.org/)
-- [Wordpress live site noe portfolio page](https://noe2.tovartech.org/)
-- [This is one of the ways i monitor my netowrk health](https://status.tovartech.org/status/tovar)
-- [Wordpress in development]()
+- [Noe Tovar Website](https://noetovar.com)
+- [My Books store](https://books.tovartech.org)
+
 
 ## Layout of my Hybrid Network. This is a mix of Linux and Windows Servers.
 *🕸️AWS EC2 instances (2)
