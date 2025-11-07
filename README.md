@@ -21,7 +21,7 @@ building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, V
  </a>
 </p>
 
-### 82 SkillSoft Credentials in Linux, Cyber Security and CCNA
+### 134 SkillSoft Credentials in Linux, Cyber Security and CCNA
 - [SkillSoft Certifications](https://skillsoft.digitalbadges.skillsoft.com/profile/noetovar322053/wallet)
 ### COMPTia and AWS Certified 
 <p align="center">AWS Certified Cloud Practitioner | CompTIA IT Operations Specialist – CIOS Stackable Certification | CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification : <br/>
