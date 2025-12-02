@@ -13,7 +13,7 @@ I love to work on Apache Web Servers, Ubuntu Linux, SQL Server, and WordPress to
 building up my Hybrid Network composed of a Linux Server, Windows 2019 Server, VMware, and ProxMox Servers where I host Linux Apache WebServer and WordPress Sites and SQL Development Servers.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noetovar5)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <p align="center">
   <a href="">
